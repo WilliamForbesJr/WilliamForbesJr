@@ -32,7 +32,7 @@
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamforbesjr&layout=compact&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=williamforbesjr&count_private=true&theme=react&hide_border=true&hide=stars,contribs&show_icons=true&line_height=30&disable_animations=true&hide_rank=true)
+![My GitHub stats](https://will-readme-stats.vercel.app/api?username=williamforbesjr&count_private=true&theme=react&hide_border=true&hide=stars,contribs&show_icons=true&line_height=30&disable_animations=true&hide_rank=true)
 
 
 ## Get in Touch:
