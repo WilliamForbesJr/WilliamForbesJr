@@ -3,10 +3,10 @@
 #### I'm a full stack developer who loves writing code that rocks 🤘
 
 ## About Me:
-- 🏢 &nbsp; I currently work as a Software Engineer for [Pluralsight](https://www.pluralsight.com).
+- 🏢 &nbsp; I am a Senior Software Engineer at [Pluralsight](https://www.pluralsight.com).
 - 🎓 &nbsp; I have an AS in Computer Science and IT with a 4.0 GPA. I'm also completing my BA in Computer Science and Math.
 - ⚛️ &nbsp; JavaScript and React are my jam!
-- ☑️ &nbsp; I have a relentless passion for writing beautiful and well-tested code.
+- ☑️ &nbsp; I have a relentless passion for writing beautiful, well-tested code.
 
 
 ### My Favorite Languages & Tools:
