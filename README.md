@@ -4,7 +4,7 @@
 
 ## About Me:
 - 🏢 &nbsp; I am a Senior Software Engineer at [Pluralsight](https://www.pluralsight.com).
-- 🎓 &nbsp; I have an AS in Computer Science and IT with a 4.0 GPA. I'm also completing my BA in Computer Science and Math.
+- 🎓 &nbsp; I have a Bachelor's in Computer Science with a 3.945 GPA
 - ⚛️ &nbsp; JavaScript and React are my jam!
 - ☑️ &nbsp; I have a relentless passion for writing beautiful, well-tested code.
 
